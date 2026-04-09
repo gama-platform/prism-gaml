@@ -1,9 +1,12 @@
 {
-  "name": "prism-gaml",
   "version": "0.0.0",
+  "name": "@gama-platform/prism-gaml",
   "description": "Brings GAML language to PrismJS engine",
   "main": "components/prism-gaml.js",
-  "repository": "https://github.com/gama-platform/prism-gaml",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gama-platform/prism-gaml.git"
+  },
   "author": "RoiArthurB <contact@arthurbrugiere.fr>",
   "license": "MIT",
   "publishConfig": {
