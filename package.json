@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "2026.8.0-alpha",
   "name": "@gama-platform/prism-gaml",
   "description": "Brings GAML language to PrismJS engine",
   "main": "components/prism-gaml.js",
